@@ -6,14 +6,15 @@ Weather analysis for Oahu is performed to encourage investors in a new surf and 
 
 ## Analysis 
 
+### Observations
 * There is missing data for the December month. There are 1700 data points for June and only 1517 data points in December. 
 * The average temperature is approximately 4 degrees warmer in June than in December.  The standard deviation is 3.25 and 3.75 in June and December respectively. 
 * While the quartiles are typically 4 degrees cooler in December than June, the minimum temperate is 9 degrees colder in the winter. 
 
-The summary of results are as following: 
+The summary of results are as following(June on left, Dec on right): 
 
-![June Temps](../Images/june_temps.png)
-![Dec Temps](../Images/dec_temps.png)
+![June Temps](./Images/june_temps.png)
+![Dec Temps](./Images/dec_temps.png)
 
 ## Results
 
